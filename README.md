@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tekq
-- 👀 I’m interested in making my own Linux Distribution
-- 🌱 I’m currently learning C++, Python, GoLang, and HTML
-- 📫 Msg me on discord! tekq#1337 
+- 👀 I’m interested in developing Nitrogen Linux and other side projects
+- 🌱 I’m currently learning C++, Python, GoLang, Ruby, and HTML
+- 📫 Msg me on discord! tekq#7257 
 
 <!---
 tekq/tekq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

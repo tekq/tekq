@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tekq
 - 👀 I’m interested in developing Nitrogen Linux and other side projects
-- 🌱 I’m currently learning C++, Python, GoLang, Ruby, Kotlin, and HTML
+- 🌱 I’m currently learning Java, C++, Python, GoLang, Ruby, Kotlin, and HTML
 - 📫 Msg me on discord! tekq#7257 
 
 <!---

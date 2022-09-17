@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tekq
-- 👀 I’m interested in developing Nitrogen Linux and other side projects
+- 👀 I’m interested in developing Nitrogen OS and other side projects
 - 🌱 I’m currently learning C++, Rust, Python and HTML.
 - 📫 Msg me on discord! tekq#7257 
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tekq
-- 👀 I’m interested in developing Nitrogen OS and other side projects
-- 🌱 I’m currently learning C++, Rust, Python and HTML.
+- 👀 I’m interested in developing Vefjiaw OS and other side projects
+- 🌱 I’m currently learning Rust, C++ and Python
 - 📫 Msg me on discord! tekq#7257 
 
 <!---
